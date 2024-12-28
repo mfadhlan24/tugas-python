@@ -40,7 +40,7 @@ CREATE TABLE `inventaris` (
 --
 
 INSERT INTO `inventaris` (`id_barang`, `nama_barang`, `jumlah`, `lokasi`, `tanggal_input`) VALUES
-(0, 'Peler', 1, 'sepatan', '2002-12-01'),
+(0, 'Ahmad Sukandar', 1, 'sepatan', '2002-12-01'),
 (1, 'Lenovo thinkpad x260', 1, 'Sepatan', '2024-12-21'),
 (12, 'Jayadi', 2, 'Sepatanns', '2024-12-21');
 
